@@ -1,8 +1,10 @@
 # fortune.py
 
-[http://github.com/goerz/fortune.py](http://github.com/goerz/fortune.py)
+[http://github.com/razamatan/fortune.py](http://github.com/razamatan/fortune.py)
 
-Author: [Michael Goerz](http://michaelgoerz.net)
+Py2 Author: [Michael Goerz](http://michaelgoerz.net)
+
+Py3 Porter: [razamatan](mailto:razamatan@hotnospammail.com) [[1](https://github.com/goerz/fortune.py/pull/4)]
 
 Print a random, hopefully interesting, adage ("fortune"), selected from a
 collection of fortune files
