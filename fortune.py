@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python2
 ############################################################################
 #    Copyright (C) 2008 by Michael Goerz                                   #
 #    http://www.physik.fu-berlin.de/~goerz                                 #
